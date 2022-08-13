@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Exemplo PHP</title>
+<title>Teste de Exemplo - PHP</title>
 </head>
 <body>
 
@@ -13,9 +13,9 @@ header('Content-Type: text/html; charset=iso-8859-1');
 
 echo 'Versao Atual do PHP: ' . phpversion() . '<br>';
 
-$servername = "54.234.153.24";
+$servername = "localhost";
 $username = "root";
-$password = "Senha123";
+$password = "123Senh@";
 $database = "meubanco";
 
 // Criar conexão
